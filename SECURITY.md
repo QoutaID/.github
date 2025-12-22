@@ -62,7 +62,7 @@ Jika pihak ketiga memulai tindakan hukum terhadap kamu untuk aktivitas yang kamu
 ## 🔗 Kontak
 
 - **Email Keamanan**: security@qouta.id
-- **Email Umum**: contact@qouta.id
+- **Email Umum**: mail@qouta.id
 - **Website**: [qouta.id](https://qouta.id)
 
 ---

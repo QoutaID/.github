@@ -101,7 +101,7 @@ Kami 💗 kontribusi dari komunitas! Jika kamu ingin berkontribusi:
 
 Ada pertanyaan atau ingin berkolaborasi? Jangan ragu untuk menghubungi kami!
 
-[![Email](https://img.shields.io/badge/Email-contact@qouta.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@qouta.id)
+[![Email](https://img.shields.io/badge/Email-mail@qouta.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@qouta.id)
 [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QoutaID)
 
 </div>

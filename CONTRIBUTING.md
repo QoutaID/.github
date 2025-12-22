@@ -93,7 +93,7 @@ docs: update README dengan instruksi instalasi
 Jangan ragu untuk:
 - Membuka issue dengan pertanyaan
 - Mention maintainer di PR kamu
-- Email kami di [contact@qouta.id](mailto:contact@qouta.id)
+- Email kami di [mail@qouta.id](mailto:mail@qouta.id)
 
 ---
 
