@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Selamat Datang di QoutaID
+# Selamat Datang di QoutaID
 
 ![QoutaID Banner](https://cdn.qouta.id/QoutaBanner.png)
 
@@ -13,26 +13,26 @@
 
 ---
 
-## 🚀 Tentang Kami
+## Tentang Kami
 
 Kami adalah tim developer yang bersemangat membangun tools dan solusi teknologi yang bermanfaat. Dari **MCP servers** hingga **web applications**, kami fokus pada kualitas, performa, dan pengalaman pengguna yang luar biasa.
 
-### 💡 Apa yang Kami Kerjakan
+### Apa yang Kami Kerjakan
 
-- 🔧 **Developer Tools** - Membangun tools yang mempermudah workflow developer
-- 🤖 **AI & Automation** - Mengintegrasikan AI ke dalam solusi sehari-hari
-- 🌐 **Web Applications** - Aplikasi web modern dengan teknologi terkini
-- 📦 **Open Source** - Berkontribusi dan membangun komunitas open source
+- **Developer Tools** - Membangun tools yang mempermudah workflow developer
+- **AI & Automation** - Mengintegrasikan AI ke dalam solusi sehari-hari
+- **Web Applications** - Aplikasi web modern dengan teknologi terkini
+- **Open Source** - Berkontribusi dan membangun komunitas open source
 
 ---
 
-## 📦 Proyek Unggulan
+## Proyek Unggulan
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔍 qoutaMcp
+### qoutaMcp
 **Project Inspector MCP Server**
 
 MCP server untuk menginspeksi dan memahami struktur proyek dengan cepat.
@@ -52,16 +52,16 @@ npx -y qoutamcp
 </td>
 <td width="50%">
 
-### 🎨 Proyek Lainnya
+### Proyek Lainnya
 *Coming Soon...*
 
 Kami sedang mengerjakan proyek-proyek menarik lainnya! Stay tuned untuk update terbaru.
 
 **Fokus Area:**
-- 📊 Dashboard & Analytics
-- 🔐 Security Tools
-- 🎮 Interactive Applications
-- 📱 Progressive Web Apps
+- Dashboard & Analytics
+- Security Tools
+- Interactive Applications
+- Progressive Web Apps
 
 </td>
 </tr>
@@ -69,7 +69,7 @@ Kami sedang mengerjakan proyek-proyek menarik lainnya! Stay tuned untuk update t
 
 ---
 
-## 🛠️ Tech Stack Favorit
+## Tech Stack Favorit
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Kami sedang mengerjakan proyek-proyek menarik lainnya! Stay tuned untuk update t
 
 ---
 
-## 🤝 Berkontribusi
+## Berkontribusi
 
 Kami 💗 kontribusi dari komunitas! Jika kamu ingin berkontribusi:
 
@@ -95,7 +95,7 @@ Kami 💗 kontribusi dari komunitas! Jika kamu ingin berkontribusi:
 
 ---
 
-## 📬 Hubungi Kami
+## Hubungi Kami
 
 <div align="center">
 
@@ -110,8 +110,8 @@ Ada pertanyaan atau ingin berkolaborasi? Jangan ragu untuk menghubungi kami!
 
 <div align="center">
 
-**Made with 💙 by QoutaID Team**
+**Made with 💙 by Qouta ID Team**
 
-*Building the future, one commit at a time* 🚀
+*Building the future, one commit at a time*
 
 </div>
